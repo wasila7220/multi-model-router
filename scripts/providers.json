@@ -1,0 +1,47 @@
+{
+  "OpenRouter": {
+    "base": "https://openrouter.ai/api/v1",
+    "description": "聚合 Claude/GPT/Gemini/Llama 等(需翻墙)",
+    "key_url": "https://openrouter.ai/keys"
+  },
+  "SiliconFlow": {
+    "base": "https://api.siliconflow.cn/v1",
+    "description": "国内聚合 DeepSeek/Qwen/GLM/Kimi/Yi",
+    "key_url": "https://cloud.siliconflow.cn/account/ak"
+  },
+  "DeepSeek": {
+    "base": "https://api.deepseek.com/v1",
+    "description": "DeepSeek 官方 API(只 deepseek-chat / deepseek-reasoner)",
+    "key_url": "https://platform.deepseek.com/api_keys"
+  },
+  "Moonshot": {
+    "base": "https://api.moonshot.cn/v1",
+    "description": "Kimi/Moonshot 官方 API",
+    "key_url": "https://platform.moonshot.cn/console/api-keys"
+  },
+  "OpenAI": {
+    "base": "https://api.openai.com/v1",
+    "description": "OpenAI 官方(GPT 全家桶)",
+    "key_url": "https://platform.openai.com/api-keys"
+  },
+  "Anthropic-OAI": {
+    "base": "https://api.anthropic.com/v1",
+    "description": "Claude 官方(注意:Anthropic 原生 API 与 OpenAI 兼容版略有差异)",
+    "key_url": "https://console.anthropic.com/settings/keys"
+  },
+  "DashScope": {
+    "base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "description": "阿里通义千问(Qwen 全家桶)兼容模式",
+    "key_url": "https://dashscope.console.aliyun.com/apiKey"
+  },
+  "ARK-Volcengine": {
+    "base": "https://ark.cn-beijing.volces.com/api/v3",
+    "description": "火山引擎(豆包/Doubao/Seedance)",
+    "key_url": "https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey"
+  },
+  "ZhipuAI": {
+    "base": "https://open.bigmodel.cn/api/paas/v4",
+    "description": "智谱 AI(GLM-4 全家桶)",
+    "key_url": "https://open.bigmodel.cn/usercenter/apikeys"
+  }
+}
